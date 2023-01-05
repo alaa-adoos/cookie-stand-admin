@@ -3,7 +3,7 @@
 Author:
 - [alaa abualadoos](https://github.com/alaa-adoos)
 ### Setup
-### [PR ](https://github.com/alaa-adoos/cookie-stand-admin/pull/1
+### [PR ](https://github.com/alaa-adoos/cookie-stand-admin/pull/1)
 How to initialize/run your application
 ```
 npm run dev
