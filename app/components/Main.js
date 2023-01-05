@@ -6,7 +6,7 @@ export default function Main() {
   return (
     <div class="bg-cover w-full bg-center bg-no-repeat bg-[url('/assets/bgimage.png')]"  >
 
-      <div class="flex flex-row-reverse  ">
+      <div class="flex flex-row-reverse 2 ">
         <CreateForm />
       </div>
       
