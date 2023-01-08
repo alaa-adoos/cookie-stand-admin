@@ -4,7 +4,7 @@ import ReportTable from './ReportTable'
 
 export default function Main() {
   return (
-    <div class="bg-cover w-full bg-center bg-no-repeat bg-[url('/assets/bgimage.png')]"  >
+    <div >
 
       <div class="flex flex-row-reverse 2 ">
         <CreateForm />
